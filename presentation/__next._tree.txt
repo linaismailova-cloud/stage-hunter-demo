@@ -1,5 +1,5 @@
-:HL["/stage-hunter-demo/_next/static/chunks/1_e-awly-t_fv.css","style"]
+:HL["/stage-hunter-demo/_next/static/chunks/1s4aqnmthuaeo.css","style"]
 :HL["/stage-hunter-demo/_next/static/media/manrope-s.p.27e7cyj53_783.woff","font",{"crossOrigin":"","type":"font/woff"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"presentation","h":96,"c":"$Q2"}]]
-0:{"b":"lOX-eG_BpIyXK6TNQ6WPl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"GOUokeogHcc_cpJaIPfOf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
