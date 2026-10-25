@@ -1,4 +1,4 @@
 :HL["/stage-hunter-demo/_next/static/chunks/3bdfvtu618qzs.css","style"]
 :HL["/stage-hunter-demo/_next/static/media/manrope-s.p.27e7cyj53_783.woff","font",{"crossOrigin":"","type":"font/woff"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"63uc9vnH29r6P946Jk7SR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"b6FsMHSNWy1xShyGzssfS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
