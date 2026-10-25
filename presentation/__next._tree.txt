@@ -2,4 +2,4 @@
 :HL["/stage-hunter-demo/_next/static/media/manrope-s.p.27e7cyj53_783.woff","font",{"crossOrigin":"","type":"font/woff"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"presentation","h":96,"c":"$Q2"}]]
-0:{"b":"wCKuGaAyRtt3NZRdiy5HU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"DNMQDu_FpKujCXDozcXjS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
