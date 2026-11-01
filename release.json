@@ -1,5 +1,7 @@
 {
-  "version": "2026-10-31-admin-status-62cc66a",
-  "sourceCommit": "62cc66ad4c5b28ba11d1a2614d060749ec3000b1",
-  "accountEnabled": false
+  "version": "2026-11-01-product-demo-f4bcb95",
+  "sourceCommit": "f4bcb95df6a1adbf8189e4bb9b77f609ca04a19e",
+  "accountEnabled": false,
+  "workflowEnabled": false,
+  "demoAdapter": "local-synthetic-v3"
 }

@@ -1,8 +1,25 @@
-# Stage Hunter — public demo
+# Stage Hunter — interactive demo
 
-Open https://linaismailova-cloud.github.io/stage-hunter-demo/
+https://linaismailova-cloud.github.io/stage-hunter-demo/
 
-This repository contains only the static demo build. Application source remains private.
-All profiles and contacts are fictional. Changes are stored in each visitor's browser and do not sync between devices.
-Customer and worker cabinets have no general performer directory. Customers select matches inside an event request.
-Demo time controls show deadline effects and a jump to the next boundary; completion requires customer confirmation.
+This repository contains only static build assets. Application source remains private.
+
+The current demo reuses the prepared cabinet components with an isolated local adapter:
+work areas, position schedules, scoped professional profiles, event discussion,
+draft recovery, delivery reconciliation, readiness and operational admin screens.
+
+All people, qualifications, contacts and events are synthetic. Select a character
+in the demo banner to check both sides. Data remains in that browser; there is no
+real registration, server authorization or device synchronization. Do not enter
+personal data. Test controls (clock, interrupted save, lost reply, reset) are in
+the collapsible demo tools. Contact entry and real Auth are disabled.
+
+- `/presentation/`: presentation and profession catalog
+- `/demo/`: new interactive cabinets (also at `/`)
+- `/demo/?role=worker`: specialist
+- `/demo/?role=admin`: synthetic administrative view
+- `/legacy-demo/`: previous prototype; separate browser storage is preserved
+- `/release.json`: exact source version and disabled runtime flags
+
+Telegram login, SMTP, real database security and multi-connection transactions
+are not demonstrated by this static site. No individual 1:1 chat is claimed.
