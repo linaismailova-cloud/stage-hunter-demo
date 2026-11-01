@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-01-onboarding-dc7564e",
-  "sourceCommit": "dc7564e64b635a51483fb147451977c2da828c12",
+  "version": "2026-11-01-entry-links-ffb74b9",
+  "sourceCommit": "ffb74b946d003b89699c25ab645390a2adf40470",
   "accountEnabled": false,
   "workflowEnabled": false,
   "demoAdapter": "local-synthetic-v3",
