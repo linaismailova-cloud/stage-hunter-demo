@@ -27,3 +27,8 @@ are not demonstrated by this static site. No individual 1:1 chat is claimed.
 
 The Mini App shell has not been connected to a live bot. Telegram UI integration is
 validated with a mock SDK; real Android/iOS validation and server login remain pending.
+
+Cabinet choices on the presentation now open `/account/`: a clearly labelled test
+registration with fixed synthetic examples, shared profile fields, local recovery,
+and entry to the selected demo role. No real passwords, email or phone inputs;
+confirmation is simulated and does not grant professional qualification.

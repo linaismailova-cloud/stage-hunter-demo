@@ -1,8 +1,9 @@
 {
-  "version": "2026-11-01-mini-app-0ed9076",
-  "sourceCommit": "0ed9076810eb77ebc84f76328ee0cb2f0310df99",
+  "version": "2026-11-01-onboarding-dc7564e",
+  "sourceCommit": "dc7564e64b635a51483fb147451977c2da828c12",
   "accountEnabled": false,
   "workflowEnabled": false,
   "demoAdapter": "local-synthetic-v3",
-  "miniAppIdentityEnabled": false
+  "miniAppIdentityEnabled": false,
+  "demoOnboarding": true
 }

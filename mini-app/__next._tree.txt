@@ -3,4 +3,4 @@
 :HL["/stage-hunter-demo/_next/static/chunks/1-t938ail7o0p.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"mini-app","h":96,"c":"$Q2"}]]
-0:{"b":"y68xtaJ4sl09hBfWHr5ko","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"CcoLQ0n4YmYO5c7OESgbi","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
