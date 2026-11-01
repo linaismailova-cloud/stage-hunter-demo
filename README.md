@@ -18,8 +18,12 @@ the collapsible demo tools. Contact entry and real Auth are disabled.
 - `/demo/`: new interactive cabinets (also at `/`)
 - `/demo/?role=worker`: specialist
 - `/demo/?role=admin`: synthetic administrative view
+- `/mini-app/`: Telegram UI shell with browser fallback, synthetic data and disabled identity
 - `/legacy-demo/`: previous prototype; separate browser storage is preserved
 - `/release.json`: exact source version and disabled runtime flags
 
 Telegram login, SMTP, real database security and multi-connection transactions
 are not demonstrated by this static site. No individual 1:1 chat is claimed.
+
+The Mini App shell has not been connected to a live bot. Telegram UI integration is
+validated with a mock SDK; real Android/iOS validation and server login remain pending.

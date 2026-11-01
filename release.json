@@ -1,7 +1,8 @@
 {
-  "version": "2026-11-01-product-demo-f4bcb95",
-  "sourceCommit": "f4bcb95df6a1adbf8189e4bb9b77f609ca04a19e",
+  "version": "2026-11-01-mini-app-0ed9076",
+  "sourceCommit": "0ed9076810eb77ebc84f76328ee0cb2f0310df99",
   "accountEnabled": false,
   "workflowEnabled": false,
-  "demoAdapter": "local-synthetic-v3"
+  "demoAdapter": "local-synthetic-v3",
+  "miniAppIdentityEnabled": false
 }
