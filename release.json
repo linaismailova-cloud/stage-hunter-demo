@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-01-entry-links-ffb74b9",
-  "sourceCommit": "ffb74b946d003b89699c25ab645390a2adf40470",
+  "version": "2026-11-03-calendar-5d0f247",
+  "sourceCommit": "5d0f247921c0e2816973467b9fa44536e1ff53d8",
   "accountEnabled": false,
   "workflowEnabled": false,
   "demoAdapter": "local-synthetic-v3",

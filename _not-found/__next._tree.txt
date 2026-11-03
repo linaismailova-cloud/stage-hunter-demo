@@ -1,4 +1,4 @@
-:HL["/stage-hunter-demo/_next/static/chunks/373wwdpfn92ql.css","style"]
+:HL["/stage-hunter-demo/_next/static/chunks/02eqczdpr5iu2.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"7ig8eA-KGj6tmrF5TRKI0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"UsTUmQ20TeGL4buyOJK7u","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
