@@ -1,9 +1,1 @@
-{
-  "version": "2026-11-03-calendar-5d0f247",
-  "sourceCommit": "5d0f247921c0e2816973467b9fa44536e1ff53d8",
-  "accountEnabled": false,
-  "workflowEnabled": false,
-  "demoAdapter": "local-synthetic-v3",
-  "miniAppIdentityEnabled": false,
-  "demoOnboarding": true
-}
+{"version": "2026-11-06-review-5c8dc9f", "sourceCommit": "5c8dc9f0333da0499334bc3af14ead8b488ab11f", "accountEnabled": false, "workflowEnabled": false, "demoAdapter": "local-synthetic-v3", "miniAppIdentityEnabled": false, "demoOnboarding": true}
