@@ -1,1 +1,9 @@
-{"version": "2026-11-08-copy-a8b3c1b", "sourceCommit": "a8b3c1ba33d6208bdc6ff8daf4b2e729f832ad29", "accountEnabled": false, "workflowEnabled": false, "demoAdapter": "local-synthetic-v3", "miniAppIdentityEnabled": false, "demoOnboarding": true}
+{
+  "version": "2026-11-08-text-eb3aab7",
+  "sourceCommit": "eb3aab7c0d20882e1caa14693e81b502d7a2f19a",
+  "accountEnabled": false,
+  "workflowEnabled": false,
+  "demoAdapter": "local-synthetic-v3",
+  "miniAppIdentityEnabled": false,
+  "demoOnboarding": true
+}
